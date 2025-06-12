@@ -65,9 +65,7 @@ for (let i = 0; i < formInputs.length; i++) {
 }
 
 // page navigation variables
-const navigationLinks = Array.from(document.querySelectorAll("[data-nav-link]")).filter(
-  (link) => link.textContent.toLowerCase() !== "portfolio"
-);
+const navigationLinks = Array.from(document.querySelectorAll("[data-nav-link]"));
 const pages = document.querySelectorAll("[data-page]");
 
 // add event to all nav link
