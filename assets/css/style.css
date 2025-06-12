@@ -2265,16 +2265,4 @@ textarea.form-input::-webkit-resizer {
   .certifications .timeline:not(:last-child) {
     margin-bottom: 30px;
   }
-
-  /* Estilos para o ícone do troféu, se necessário */
-  .certifications .icon-box ion-icon {
-    /* Pode ajustar o tamanho, cor, etc. */
-  }
-
-  /* Adaptações responsivas específicas, se desejar */
-  @media (min-width: 768px) {
-    .certifications .timeline-list {
-      /* Ajustes para telas maiores, se a coluna se dividir */
-    }
-  }
 }
