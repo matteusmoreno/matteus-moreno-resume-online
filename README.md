@@ -8,6 +8,8 @@
 
 Welcome to the online resume of Matteus Moreno, a Backend Developer with a strong foundation in strategic management and technical proficiency in systems development. This repository showcases my professional journey, skills, education, and certifications, providing a comprehensive overview for potential employers and collaborators.
 
+**The live version of this resume website is hosted at [https://www.matteusmoreno.com](https://www.matteusmoreno.com)**
+
 ## 🚀 About Me
 
 As a Backend Developer, I bring a unique combination of 15 years of experience in strategic management and technical proficiency in systems development. My passion for technology led me to a focused career transition, where I now apply my knowledge in Java, Spring, and Quarkus to create scalable and efficient backend solutions. My journey has allowed me to develop strong adaptability, continuous learning, and leadership and organizational skills, essential for thriving in collaborative environments. With a proactive and problem-solving approach, I seek to contribute to innovative technology projects, uniting my administrative experience with technical expertise to drive success.
